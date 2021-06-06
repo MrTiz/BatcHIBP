@@ -9,7 +9,7 @@ Thanks to these instructions, you can get a copy of the project up and run on yo
 
 ### Installation
 ```bash
-git clone https://github.com/MrTiz9/BatcHIBP.git
+git clone https://github.com/MrTiz/BatcHIBP.git
 ```
 
 ## Usage
@@ -62,7 +62,7 @@ Contributions are what make the open source community such a good place to learn
 - Open a Pull Request
 
 ## Authors
-- **[Tiziano Marra](https://github.com/MrTiz9)**
+- **[Tiziano Marra](https://github.com/MrTiz)**
 
 ## Disclaimer
 [have i been pwned?](https://haveibeenpwned.com) is not associated with, nor it does not endorse nor sponsor this script. I'm not affiliated with the authors of _have i been pwned?_. This is just an attempt to have a script that can evaluate the compromise of a set of passwords.
@@ -71,4 +71,4 @@ Contributions are what make the open source community such a good place to learn
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This project is licensed under the GNU General Public License v3.0 - see the 
-[LICENSE](https://github.com/MrTiz9/BatcHIBP/blob/master/LICENSE) file for details.
+[LICENSE](https://github.com/MrTiz/BatcHIBP/blob/master/LICENSE) file for details.
